@@ -1,3 +1,3 @@
-[Play the demo here](othello-ai.netlify.app)
+[Play othello-ai](https://othello-ai.netlify.app/))
 
 By Ahaan Mehta
